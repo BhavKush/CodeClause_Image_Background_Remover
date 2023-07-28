@@ -1,5 +1,4 @@
-# CodeClause_Image_Background_Remover
-# ImageBackgroundRemover
+# CodeClause_ImageBackgroundRemover
 
 This is a Image Background remover Web Application and its a clone in working of 'Remove.bg' which is a Image-Background Removing Web Application.
 
